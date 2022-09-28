@@ -1,6 +1,6 @@
 package com.bbbrrr8877.android.readcontacts
 
-data class Contacts(
+data class Contact(
     val id: Int,
     val name: String
 )
